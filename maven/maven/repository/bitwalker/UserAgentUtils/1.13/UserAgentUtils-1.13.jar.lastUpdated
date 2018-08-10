@@ -1,0 +1,19 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 05 19:39:11 CST 2015
+http\://maven.oschina.net/content/groups/public/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1446721735392
+http\://download.java.net/maven/2/.lastUpdated=1446721732652
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1446721730230
+http\://repo.maven.apache.org/maven2/.lastUpdated=1446721733931
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://download.java.net/maven/2/.error=
+http\://repo.spring.io/release/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1446723546429
+@default-https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1446723546303
+http\://repo.spring.io/release/.lastUpdated=1446721733372
+https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1446723551614
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1446721734541
+https\://app.camunda.com/nexus/content/groups/public/.error=Could not transfer artifact bitwalker\:UserAgentUtils\:jar\:1.13 from/to activiti-repos2 (https\://app.camunda.com/nexus/content/groups/public)\: Read timed out
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=

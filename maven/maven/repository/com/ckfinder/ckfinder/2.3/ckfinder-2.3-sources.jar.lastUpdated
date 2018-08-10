@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 05 22:23:25 CST 2015
+http\://repo1.maven.org/maven2/.lastUpdated=1446731595059
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1446733402944
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1446731589687
+http\://repo.maven.apache.org/maven2/.lastUpdated=1446731593506
+http\://repo.spring.io/release/.lastUpdated=1446731592437
+http\://download.java.net/maven/2/.lastUpdated=1446731591503
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1446731598984
+http\://maven.oschina.net/content/groups/public/.error=
+https\://raw.github.com/thinkgem/repository/master/.error=
+@default-https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1446733402788
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+http\://repo.spring.io/release/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=Could not transfer artifact com.ckfinder\:ckfinder\:jar\:sources\:2.3 from/to activiti-repos2 (https\://app.camunda.com/nexus/content/groups/public)\: Read timed out
+http\://repo1.maven.org/maven2/.error=
+https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1446733405249

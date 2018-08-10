@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Nov 06 14:08:57 CST 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1446790137708
+http\://download.java.net/maven/2/.lastUpdated=1446780571170
+@default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1446780568799
+http\://repo.spring.io/release/.lastUpdated=1446780572901
+http\://download.java.net/maven/2/.error=
+http\://repo.spring.io/release/.error=
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact org.apache.poi\:poi\:jar\:3.2-FINAL from/to oschina-repos (http\://maven.oschina.net/content/groups/public)\: GET request of\: org/apache/poi/poi/3.2-FINAL/poi-3.2-FINAL.jar from oschina-repos failed

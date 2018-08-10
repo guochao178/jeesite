@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 10 09:42:22 CST 2018
+spring-tx-4.0.8.RELEASE.pom>nexus=
+spring-tx-4.0.8.RELEASE.jar>=
+spring-tx-4.0.8.RELEASE.pom>public=
+spring-tx-4.0.8.RELEASE.jar>nexus=
+spring-tx-4.0.8.RELEASE.pom>central=
+spring-tx-4.0.8.RELEASE.jar>oschina-repos=

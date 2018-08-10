@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 05 21:47:23 CST 2015
+http\://repo1.maven.org/maven2/.lastUpdated=1446731217723
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1446731239908
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1446731214677
+http\://repo.maven.apache.org/maven2/.lastUpdated=1446731216919
+http\://repo.spring.io/release/.lastUpdated=1446731216569
+http\://download.java.net/maven/2/.lastUpdated=1446731215481
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1446731218626
+http\://maven.oschina.net/content/groups/public/.error=
+https\://raw.github.com/thinkgem/repository/master/.error=
+@default-https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1446731239646
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+http\://repo.spring.io/release/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=Could not transfer artifact stax\:stax-api\:jar\:sources\:1.0.1 from/to activiti-repos2 (https\://app.camunda.com/nexus/content/groups/public)\: Connection to https\://app.camunda.com refused
+http\://repo1.maven.org/maven2/.error=
+https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1446731243078

@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 10 09:42:22 CST 2018
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1525916541989
+@default-http\://download.java.net/maven/2/.lastUpdated=1525916541978
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:sources\:4.0.8.RELEASE from/to central-repos (http\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+@default-http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1525916542032
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:sources\:4.0.8.RELEASE from/to java-repos (http\://download.java.net/maven/2/)\: download.java.net
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:sources\:4.0.8.RELEASE from/to oschina-repos (http\://maven.oschina.net/content/groups/public)\: maven.oschina.net
+@default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1525916541969
+https\://raw.github.com/thinkgem/repository/master/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:sources\:4.0.8.RELEASE from/to thinkgem-repos2 (https\://raw.github.com/thinkgem/repository/master)\: raw.github.com
+@default-https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1525916542029
+@default-http\://repo.spring.io/release/.lastUpdated=1525916541984
+https\://maven.alfresco.com/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:sources\:4.0.8.RELEASE from/to activiti-repos (https\://maven.alfresco.com/nexus/content/groups/public)\: maven.alfresco.com
+@default-https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1525916542035
+@default-http\://repo1.maven.org/maven2/.lastUpdated=1525916541996
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:sources\:4.0.8.RELEASE from/to thinkgem-repos (http\://git.oschina.net/thinkgem/repos/raw/master)\: git.oschina.net
+http\://repo.spring.io/release/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:sources\:4.0.8.RELEASE from/to springsource-repos (http\://repo.spring.io/release/)\: repo.spring.io
+https\://app.camunda.com/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:sources\:4.0.8.RELEASE from/to activiti-repos2 (https\://app.camunda.com/nexus/content/groups/public)\: app.camunda.com
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:sources\:4.0.8.RELEASE from/to central-repos2 (http\://repo1.maven.org/maven2/)\: repo1.maven.org
+@default-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1525916542025

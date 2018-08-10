@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 05 21:45:48 CST 2015
+http\://repo1.maven.org/maven2/.lastUpdated=1446729290306
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1446731143174
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1446729285578
+http\://repo.maven.apache.org/maven2/.lastUpdated=1446729289711
+http\://repo.spring.io/release/.lastUpdated=1446729288894
+http\://download.java.net/maven/2/.lastUpdated=1446729288008
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1446729291088
+http\://maven.oschina.net/content/groups/public/.error=
+https\://raw.github.com/thinkgem/repository/master/.error=
+@default-https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1446731143005
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+http\://repo.spring.io/release/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.poi\:poi-ooxml-schemas\:jar\:sources\:3.9 from/to activiti-repos2 (https\://app.camunda.com/nexus/content/groups/public)\: Read timed out
+http\://repo1.maven.org/maven2/.error=
+https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1446731148251

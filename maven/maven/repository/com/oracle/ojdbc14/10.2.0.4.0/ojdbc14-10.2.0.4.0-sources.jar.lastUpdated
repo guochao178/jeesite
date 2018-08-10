@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 05 20:11:16 CST 2015
+http\://repo1.maven.org/maven2/.lastUpdated=1446723576679
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1446725474347
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1446723572597
+http\://repo.maven.apache.org/maven2/.lastUpdated=1446723576117
+http\://repo.spring.io/release/.lastUpdated=1446723575418
+http\://download.java.net/maven/2/.lastUpdated=1446723573425
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1446723577868
+http\://maven.oschina.net/content/groups/public/.error=
+https\://raw.github.com/thinkgem/repository/master/.error=
+@default-https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1446725474152
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+http\://repo.spring.io/release/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=Could not transfer artifact com.oracle\:ojdbc14\:jar\:sources\:10.2.0.4.0 from/to activiti-repos2 (https\://app.camunda.com/nexus/content/groups/public)\: peer not authenticated
+http\://repo1.maven.org/maven2/.error=
+https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1446725476884

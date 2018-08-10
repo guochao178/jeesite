@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 05 22:25:11 CST 2015
+servlet-api-2.5.jar>=
+servlet-api-2.5-sources.jar>oschina-repos=
+servlet-api-2.5.pom>oschina-repos=
+servlet-api-2.5.jar>oschina-repos=
